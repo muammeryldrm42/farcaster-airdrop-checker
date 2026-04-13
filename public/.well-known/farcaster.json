@@ -1,0 +1,20 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "name": "Farcester Aırdrop Checker",
+    "version": "1",
+    "iconUrl": "https://far-airdrop-checker-rnag.vercel.app/icon.png",
+    "homeUrl": "https://far-airdrop-checker-rnag.vercel.app",
+    "imageUrl": "https://far-airdrop-checker-rnag.vercel.app/image.png",
+    "splashImageUrl": "https://far-airdrop-checker-rnag.vercel.app/splash.png",
+    "splashBackgroundColor": "#7C3AED",
+    "webhookUrl": "https://far-airdrop-checker-rnag.vercel.app/api/webhook",
+    "subtitle": "Farcester Aırdrop Checker",
+    "description": "Farcester Aırdrop Checker",
+    "primaryCategory": "utility"
+  }
+}
